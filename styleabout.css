@@ -1,0 +1,42 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+}
+nav ul {
+	background-color:green;
+	overflow:hidden;
+	color:black;
+	text-align:center;
+	padding:10px;
+	margin:0;
+}
+a {
+	text-decoration:none;
+	color:black;
+}
+nav ul li {
+	display:inline-block;
+	padding:10px;
+}
+nav ul li:hover {
+	background-color:green;
+	padding:10px;
+}
+h3 {
+	text-align: center;
+	font-style: italic;
+}
+.me img{
+	height: 200px;
+	width: 250px;
+	float: center;
+	margin-right: 10px;
+	margin-left: 10px;
+	border: solid black 1px;
+	padding: 2px;
+}
+.text p{
+	float: right;
+}
+
